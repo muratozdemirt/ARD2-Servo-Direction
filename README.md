@@ -16,5 +16,5 @@ The system controls the angle of a servo motor (from 0° to 180°) using two pus
 🔍 [Click here to view the detailed circuit schematic](./hardware/schematic_ard-2.png)
 *(Schematic designed with industry-standard KiCad)*
 
-## Personal NoteI
+## Personal Note
 It makes me feel really excited to develop any new thing on my Embedded Systems journey and transform my theoretical knowledge from Gebze Technical University to pratictice. I am looking forward to what can I develop more in next days in sha Allah. Stay tuned!
